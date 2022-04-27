@@ -1,7 +1,7 @@
 {
   "name": "test-react-app",
   "version": "0.1.0",
-  "private": false,
+  "private": true,
   "homepage": "http://NileemaS.github.io/login/public/",
   "dependencies": {
     "email-validator": "^2.0.4",
