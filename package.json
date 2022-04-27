@@ -2,6 +2,7 @@
   "name": "test-react-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://NileemaS.github.io/login",
   "dependencies": {
     "email-validator": "^2.0.4",
     "formik": "^2.2.5",
