@@ -8,9 +8,14 @@
 Login app built with React, React-Dom, Email-Validator and Formik.
 
 <p>
-Formik form offers several types of authentication email/password for Login
+Formik is a small library that can help you with the three most annoying aspects of creating forms in React:
 
-Stack Used: CSS, HTML, JavaScripts, React
+Getting values in and out of the form state
+Validation and error messages
+Handling form submission
+By collecting all of the above in one place, Formik can keep things organized, making testing, refactoring, and reasoning your forms much easier.
+
+Stack Used to build this app: CSS, HTML, JavaScripts, React
 </p>
 
 </em></p> </pre> 
