@@ -80,7 +80,7 @@ Future Improvements to add in the Login App
     <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" />
     <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" />
     <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
-   
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
 </p>
 
  <p float="left">
